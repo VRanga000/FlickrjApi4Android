@@ -23,9 +23,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/yuyang226/FlickrjApi4Android/</url>
-		<connection>scm:git:git@github.com:yuyang226/FlickrjApi4Android.git</connection>
-		<developerConnection>scm:git:git@github.com:yuyang226/FlickrjApi4Android.git</developerConnection>
+		<url>https://github.com/vranga000/FlickrjApi4Android/</url>
+		<connection>scm:git:git@github.com:vranga000/FlickrjApi4Android.git</connection>
+		<developerConnection>scm:git:git@github.com:vranga000/FlickrjApi4Android.git</developerConnection>
 	</scm>
 
 	<developers>
